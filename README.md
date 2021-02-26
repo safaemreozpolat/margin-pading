@@ -1,11 +1,11 @@
 # Margin ve Padding Farkı
-<Margin>
+Margin
 
 >Margin dış boşluk vermek için kullanılır.
 
 >Tanımladığınız değerin dışından yer alan değerden olan uzaklığını belirlemek için kullanılır.
 
-<Padding>
+Padding
 
 >Padding iç boşluk vermek için kullanılır.
 
