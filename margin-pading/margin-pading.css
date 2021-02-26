@@ -1,0 +1,22 @@
+.margin{
+    border: 1px solid blue;
+    width: 250px;
+    height: 250px;
+}
+
+.padding{
+    border: 1px solid red;
+    width: 250px;
+    height: 250px;
+}
+
+
+.margin-kutu{
+    border: 1px solid blue;
+    margin: 100px;
+
+}
+.padding-kutu{
+    border: 1px solid red;
+    padding: 25px;
+}
